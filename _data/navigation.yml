@@ -1,0 +1,19 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Subscribe
+    url: /subscribe/
+  - title: Confirmation
+    url: /confirmation/
+  - title: Campaign
+    collection: campaign
+  - title: Blog
+    resource_room: true
